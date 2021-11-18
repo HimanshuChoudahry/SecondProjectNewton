@@ -1,2 +1,2 @@
 
-<?php include_once("main.js"); ?>
+<?php include_once("index.html"); ?>
